@@ -13,7 +13,7 @@ module.exports = {
         custom: "rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;",
       },
       backgroundImage: {
-        bgLogin: "url('./imgs/bgLogin-beach.jpeg')",
+        bgLogin: "url('./imgs/bgLogin-beach.jpeg');",
       },
     },
   },
